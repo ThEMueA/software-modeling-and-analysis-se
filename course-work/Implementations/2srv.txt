@@ -1,0 +1,12 @@
+
+User,Currency,Country,City
+Alice,USD,USA,New York
+Bob,EUR,Germany,Berlin
+Charlie,JPY,Japan,Tokyo
+Diana,GBP,UK,London
+Ethan,USD,Canada,Toronto
+Fiona,USD,Australia,Sydney
+George,CHF,Switzerland,Zurich
+Hannah,SGD,Singapore,Singapore
+Ian,USD,India,Mumbai
+Julia,CNY,China,Shanghai
